@@ -678,3 +678,7 @@ img {
   justify-content: center;
   fill: transparent;
 }
+
+.module-window-divcheck-label-link {
+  color: #4d5ae5;
+}
