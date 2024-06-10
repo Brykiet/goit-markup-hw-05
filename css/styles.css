@@ -96,7 +96,8 @@ img {
   color: #2e2f42;
 }
 
-.nav-link {
+.nav-link,
+.nav-link-active {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -108,7 +109,7 @@ img {
   color: #404bbf;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.nav-link::after {
+.nav-link-active::after {
   content: "";
   width: 100%;
   position: absolute;
@@ -434,9 +435,6 @@ img {
   color: #f4f4fd;
   letter-spacing: 0.02em;
   max-width: 264px;
-}
-.foot-media {
-  margin: auto;
 }
 
 .foot-media-text {
