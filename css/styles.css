@@ -436,6 +436,9 @@ img {
   letter-spacing: 0.02em;
   max-width: 264px;
 }
+.foot-media {
+  margin-right: 120px;
+}
 
 .foot-media-text {
   font-weight: 500;
@@ -486,6 +489,7 @@ img {
 }
 .formul-form {
   display: flex;
+  gap: 24px;
 }
 .formul-form-label {
   gap: 24px;
