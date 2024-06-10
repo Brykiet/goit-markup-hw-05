@@ -634,7 +634,9 @@ img {
 .module-window-form-div-div-svg:hover {
   fill: #4d5ae5;
 }
-
+.module-window-form-comm {
+  margin-bottom: 16px;
+}
 .module-window-form-comm-textarea {
   width: 100%;
   height: 120px;
