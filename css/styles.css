@@ -487,3 +487,6 @@ img {
 .formul-form {
   display: flex;
 }
+.formul-form-label {
+  gap: 24px;
+}
